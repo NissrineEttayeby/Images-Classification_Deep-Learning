@@ -1,4 +1,4 @@
-# Image Classification in Deep-Learning
+#  Image Classification in Deep-Learning
 Image classification can be defined as the task of categorizing images into one or multiple predefined classes. Although the task of categorizing an image is instinctive and habitual to humans, it is much more challenging for an automated system to recognize and classify images.
 # Neural networks for image classification 
 ![image](https://user-images.githubusercontent.com/108592629/236592708-786d1b2a-432b-44bb-ae0a-0199520d5fa2.png)
