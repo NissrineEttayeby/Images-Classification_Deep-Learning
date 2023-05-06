@@ -13,3 +13,5 @@ Image classification can be defined as the task of categorizing images into one 
 * Application 6: Retail customer segmentation 
 * Application 7: Land use mapping  
 
+# Mislabeled images 
+![image](https://user-images.githubusercontent.com/108592629/236593209-1f2465b3-4107-4520-8db5-b03cd368ef37.png)
